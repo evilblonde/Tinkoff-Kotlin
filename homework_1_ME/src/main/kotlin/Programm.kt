@@ -1,5 +1,6 @@
 package ru.tinkoff.fintech.homework.lesson1
 class Programm(stud: Student, senp: Senpai) {
+    //это переменные не нужны, ты можешь использовать те, которые переданы в конструкторе
     var mm=senp
     var uu=stud
     fun get_programm() {

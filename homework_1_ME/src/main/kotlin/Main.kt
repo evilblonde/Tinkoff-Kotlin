@@ -1,4 +1,6 @@
 package ru.tinkoff.fintech.homework.lesson1
+//добавь файл .gitignore, в нем должна быть папка .idea, build, .gradle, посмотри в интернете примеры
+
 fun main(args: Array<String>) {
     println("Введите имя студента:")
     var stud1 = Student()
